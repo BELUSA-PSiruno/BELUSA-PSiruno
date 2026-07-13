@@ -23,7 +23,7 @@ I'm a BI Analyst turned frontend developer - I turn coffee, dashboards, and Clau
 
 <hr/>
 
-- 🔭 I'm currently working for **[BI Team](#)**: I'm currently pretending we dont have any bugs
+- 🔭 I'm currently working for **[BI Team](#)**
 - 🌱 I'm currently learning **frameworks & courses**: currently Googling (and Clauding) my way through
 - 👯 I'm looking to collaborate on **order management**: looking for someone to share the blame with
 - 🤝 I'm looking for help with **the dev team**: send help, specifically for tokens

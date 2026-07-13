@@ -49,14 +49,3 @@ I'm a BI Analyst turned frontend developer - I turn coffee, dashboards, and Clau
 </p>
 
 <hr/>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=belusa-psiruno&show_icons=true&locale=en&theme=tokyonight" alt="belusa-psiruno" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=belusa-psiruno&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="belusa-psiruno" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=belusa-psiruno&theme=tokyonight" alt="belusa-psiruno" />
-</p>

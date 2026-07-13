@@ -28,7 +28,7 @@ I'm a BI Analyst turned frontend developer - I turn coffee, dashboards, and Clau
 - 👯 I'm looking to collaborate on **order management**: looking for someone to share the blame with
 - 🤝 I'm looking for help with **the dev team**: send help, specifically for tokens
 - 💬 Ask me about **Python and JavaScript**: I will over-explain
-- 📫 How to reach me: **paulnikkosiruno@gmail.com**: response time: eventually
+- 📫 How to reach me: **MS Teams (chat instead of an email or meeting - let us save time)**: response time: eventually
 - 👨‍💻 All of my projects are available at **[my portfolio](#)**: proof I actually code
 - 📝 I regularly write articles on **[my blog](#)**: mostly for future-me to remember
 - 📄 Know about my experience: **[resume](#)**: coming soon...

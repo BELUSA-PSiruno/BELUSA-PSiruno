@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikko Siruno</h1>
+<h1 align="center">Hi 👋, everyone calls me Nikko</h1>
 <h3 align="center">Job title says BI Analyst. My GitHub commits say otherwise.</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-I'm a BI Analyst turned frontend developer - I turn coffee, dashboards, and Clauding CLIs into working software. 🚀
+I'm a BI Analyst turned fullstack developer - I turn coffee, dashboards, and Clauding CLIs into working software. 🚀
 </p>
 
 <p align="center">

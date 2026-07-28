@@ -23,12 +23,12 @@ Mostly React and Python. I like the unglamorous half: the pipeline, the CLI, the
 
 <hr/>
 
-🔭 On the BI team at BEL USA LLC - dashboards, pipelines, and the tooling around them
-🌱 Currently learning forward deployed engineering - where the critical dependency is the one person who understands the schema, and she's on leave
-👯 Open to collaborating on order management tooling - I've built enough of it to have opinions
-💬 Ask me about Python and JavaScript. I will over-explain
-📫 Reach me on LinkedIn - I'd rather chat than schedule a meeting
-⚡ Fun fact: the best tool I ever shipped replaced a spreadsheet one person had maintained by hand for six years
+- 🔭 On the BI team at BEL USA LLC - dashboards, pipelines, and the tooling around them
+- 🌱 Currently learning forward deployed engineering - where the critical dependency is the one person who understands the schema, and she's on leave
+- 👯 Open to collaborating on order management tooling - I've built enough of it to have opinions
+- 💬 Ask me about Python and JavaScript. I will over-explain
+- 📫 Reach me on LinkedIn - I'd rather chat than schedule a meeting
+- ⚡ Fun fact: the best tool I ever shipped replaced a spreadsheet one person had maintained by hand for six years
 
 <hr/>
 

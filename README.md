@@ -23,16 +23,12 @@ Mostly React and Python. I like the unglamorous half: the pipeline, the CLI, the
 
 <hr/>
 
-- 🔭 I'm currently working for **[BI Team](#)**
-- 🌱 I'm currently learning **frameworks & courses**: currently Googling (and Clauding) my way through
-- 👯 I'm looking to collaborate on **order management**: looking for someone to share the blame with
-- 🤝 I'm looking for help with **the dev team**: send help, specifically for tokens
-- 💬 Ask me about **Python and JavaScript**: I will over-explain
-- 📫 How to reach me: **MS Teams (chat instead of an email or meeting - let us save time)**: response time: eventually
-- 👨‍💻 All of my projects are available at **[my portfolio](#)**: proof I actually code, coming soon...
-- 📝 I regularly write articles on **[my blog](#)**: mostly for future-me to remember, coming soon...
-- 📄 Know about my experience: **[resume](#)**: coming soon...
-- ⚡ Fun fact: **I've fixed more bugs by turning it off and on again than I'd like to admit**
+🔭 On the BI team at BEL USA LLC - dashboards, pipelines, and the tooling around them
+🌱 Currently learning forward deployed engineering - where the critical dependency is the one person who understands the schema, and she's on leave
+👯 Open to collaborating on order management tooling - I've built enough of it to have opinions
+💬 Ask me about Python and JavaScript. I will over-explain
+📫 Reach me on LinkedIn - I'd rather chat than schedule a meeting
+⚡ Fun fact: the best tool I ever shipped replaced a spreadsheet one person had maintained by hand for six years
 
 <hr/>
 

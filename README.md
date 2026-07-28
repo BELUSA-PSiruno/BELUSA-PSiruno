@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, everyone calls me Nikko</h1>
-<h3 align="center">Job title says BI Analyst. My GitHub commits say otherwise.</h3>
+<h3 align="center">BI Analyst by title. Fullstack by commit history. I turn messy data into software people actually use.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=belusa-psiruno&label=Profile%20views&color=0e75b6&style=flat" alt="belusa-psiruno" />
 </p>
 
 <p align="center">
-I'm a BI Analyst turned fullstack developer - I turn coffee, dashboards, and Clauding CLIs into working software. 🚀
+Mostly React and Python. I like the unglamorous half: the pipeline, the CLI, the job that runs at 6am so nobody has to.
 </p>
 
 <p align="center">

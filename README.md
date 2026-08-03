@@ -29,7 +29,7 @@ Mostly React and Python. I like the unglamorous half: the pipeline, the CLI, the
 - 👯 Open to collaborating on order management tooling - I've built enough of it to have opinions
 - 💬 Ask me about Python and JavaScript. I will over-explain
 - 📫 Reach me on LinkedIn - I'd rather chat than schedule a meeting
-- ⚡ Fun fact: the best tool I ever shipped replaced a spreadsheet one person had maintained by hand for six years
+- ⚡ Fun fact: I once read all 553 tickets in a backlog to find the two that were already finished
 
 <hr/>
 

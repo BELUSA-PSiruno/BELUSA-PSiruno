@@ -25,7 +25,7 @@ Mostly React and Python. I like the unglamorous half: the pipeline, the CLI, the
 
 - 🔭 On the BI team at BEL USA LLC - Redshift warehouse, ETL pipelines, and the reporting on top
 - 🛠️ Also the software half: Lambda services, an outbound dialer on DynamoDB, and CLI tooling nobody sees but everyone depends on
-- 🌱 Currently learning forward deployed engineering - where the critical dependency is the one person who understands the schema, and she's on leave
+- 🌱 Currently learning graph engineering for AI - where the RAG pipeline is only as smart as knowing "Apple" the fruit from "Apple" the trillion-dollar company
 - 👯 Open to collaborating on ecommerce and order infrastructure - migrations, replatforms, and the data plumbing underneath
 - 💬 Ask me about Python and JavaScript. I will over-explain
 - 📫 Reach me on LinkedIn - I answer, and usually with more detail than you asked for

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, everyone calls me Nikko</h1>
-<h3 align="center">BI Analyst by title. Fullstack by commit history. I turn messy data into software people actually use.</h3>
+<h3 align="center">Manager Workforce Management - Reporting & Analytics by title. Fullstack by commit history. I turn messy data into software people actually use.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=belusa-psiruno&label=Profile%20views&color=0e75b6&style=flat" alt="belusa-psiruno" />
@@ -23,13 +23,17 @@ Mostly React and Python. I like the unglamorous half: the pipeline, the CLI, the
 
 <hr/>
 
-- 🔭 On the BI team at BEL USA LLC - Redshift warehouse, ETL pipelines, and the reporting on top
-- 🛠️ Also the software half: Lambda services, an outbound dialer on DynamoDB, and CLI tooling nobody sees but everyone depends on
-- 🌱 Currently learning graph engineering for AI where the RAG pipeline is only as smart as knowing "Apple" the fruit from "Apple" the trillion dollar company
-- 👯 Open to collaborating on ecommerce and order infrastructure migrations, replatforms, and the data plumbing underneath
-- 💬 Ask me about Python and JavaScript. I will over-explain
-- 📫 Reach me on LinkedIn, and I will answer, and usually with more detail than you asked for
-- ⚡ Fun fact: I once read all 553 tickets in a backlog to find the two that were already finished
+Data Scientist. AI Developer. BI Engineer. Automation Architect. Graphic Designer. Professional Overthinker. Full-Time Problem Magnet.
+
+I turn caffeine into SQL queries, chaos into dashboards, and problems nobody asked me to solve into fully automated systems.
+
+I have more job titles than a startup has employees. My hobbies include optimizing things that already work, arguing with Power BI, building AI that might replace me, and voluntarily running ridiculous distances like my life isn't already exhausting enough.
+
+My toxic trait? Thinking everything can be fixed with a dashboard, an automation, or a 47-step workflow.
+
+**I'm not a jack of all trades. I'm an entire IT department experiencing a psychological incident.**
+
+Currently running on caffeine, questionable decisions, and `SELECT * FROM sanity WHERE status = 'AVAILABLE'` returning zero rows.
 
 <hr/>
 
